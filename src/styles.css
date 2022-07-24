@@ -1,0 +1,93 @@
+body {
+  background: #e4f1fe;
+  font-family: "Radio Canada", sans-serif;
+  padding: 10px;
+}
+br {
+  display: block;
+  line-height: 2px;
+  font-size: 2px;
+  margin-bottom: 2px;
+}
+h2 {
+  text-align: center;
+  color: #22313f;
+  font-weight: 700;
+}
+h4,
+h6 {
+  width: 100%;
+  background-color: #e4f1fe;
+  text-align: right;
+}
+h4 {
+  top: 0;
+  margin: 0;
+  padding: 0 10px;
+}
+h5 {
+  font-weight: 600;
+}
+h6 {
+  top: 25px;
+  padding: 0 48px;
+}
+.card-body,
+.card-title,
+.card-text {
+  text-align: center;
+}
+.coder,
+.current-date,
+.current-temp {
+  text-align: right;
+}
+.current-city,
+.current-temp {
+  font-size: 60px;
+  color: #8dc6ff;
+  font-weight: 700;
+}
+.current-temp-description {
+  color: #8dc6ff;
+  font-weight: 600;
+  text-align: right;
+}
+.card-text {
+  font-size: 50px;
+}
+.coder {
+  font-size: 12px;
+  color: #22313f;
+}
+.container {
+  padding: 0;
+  margin: 0 auto;
+}
+.current-alerts {
+  text-align: center;
+  font-size: 18px;
+  padding: 30px;
+  color: #fff;
+  background-color: #34495e;
+  border-radius: 10px;
+}
+.current-city {
+  text-align: left;
+}
+.current-statecountry {
+  text-align: left;
+}
+.current-weather {
+  background-color: #34495e;
+  border-radius: 10px;
+}
+.current-weather-logo {
+  color: yellow;
+  font-size: 220px;
+  text-align: center;
+}
+#current-location-button {
+  background: #8dc6ff;
+  color: #fff;
+}
